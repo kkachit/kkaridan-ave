@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/github.io/kkaridan-ave/static/css/main.e619bff2.chunk.css",
-    "main.js": "/github.io/kkaridan-ave/static/js/main.026cf1e7.chunk.js",
-    "main.js.map": "/github.io/kkaridan-ave/static/js/main.026cf1e7.chunk.js.map",
-    "runtime-main.js": "/github.io/kkaridan-ave/static/js/runtime-main.299785f7.js",
-    "runtime-main.js.map": "/github.io/kkaridan-ave/static/js/runtime-main.299785f7.js.map",
-    "static/js/2.06857d53.chunk.js": "/github.io/kkaridan-ave/static/js/2.06857d53.chunk.js",
-    "static/js/2.06857d53.chunk.js.map": "/github.io/kkaridan-ave/static/js/2.06857d53.chunk.js.map",
-    "static/js/3.ed949fc1.chunk.js": "/github.io/kkaridan-ave/static/js/3.ed949fc1.chunk.js",
-    "static/js/3.ed949fc1.chunk.js.map": "/github.io/kkaridan-ave/static/js/3.ed949fc1.chunk.js.map",
-    "index.html": "/github.io/kkaridan-ave/index.html",
-    "static/css/main.e619bff2.chunk.css.map": "/github.io/kkaridan-ave/static/css/main.e619bff2.chunk.css.map",
-    "static/js/2.06857d53.chunk.js.LICENSE.txt": "/github.io/kkaridan-ave/static/js/2.06857d53.chunk.js.LICENSE.txt",
-    "static/media/Card.css": "/github.io/kkaridan-ave/static/media/BMJUA_ttf.d3677a5b.woff"
+    "main.css": "/kkaridan-ave/static/css/main.e212c2ae.chunk.css",
+    "main.js": "/kkaridan-ave/static/js/main.026cf1e7.chunk.js",
+    "main.js.map": "/kkaridan-ave/static/js/main.026cf1e7.chunk.js.map",
+    "runtime-main.js": "/kkaridan-ave/static/js/runtime-main.47f6ed7e.js",
+    "runtime-main.js.map": "/kkaridan-ave/static/js/runtime-main.47f6ed7e.js.map",
+    "static/js/2.06857d53.chunk.js": "/kkaridan-ave/static/js/2.06857d53.chunk.js",
+    "static/js/2.06857d53.chunk.js.map": "/kkaridan-ave/static/js/2.06857d53.chunk.js.map",
+    "static/js/3.ed949fc1.chunk.js": "/kkaridan-ave/static/js/3.ed949fc1.chunk.js",
+    "static/js/3.ed949fc1.chunk.js.map": "/kkaridan-ave/static/js/3.ed949fc1.chunk.js.map",
+    "index.html": "/kkaridan-ave/index.html",
+    "static/css/main.e212c2ae.chunk.css.map": "/kkaridan-ave/static/css/main.e212c2ae.chunk.css.map",
+    "static/js/2.06857d53.chunk.js.LICENSE.txt": "/kkaridan-ave/static/js/2.06857d53.chunk.js.LICENSE.txt",
+    "static/media/Card.css": "/kkaridan-ave/static/media/BMJUA_ttf.d3677a5b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.299785f7.js",
+    "static/js/runtime-main.47f6ed7e.js",
     "static/js/2.06857d53.chunk.js",
-    "static/css/main.e619bff2.chunk.css",
+    "static/css/main.e212c2ae.chunk.css",
     "static/js/main.026cf1e7.chunk.js"
   ]
 }
