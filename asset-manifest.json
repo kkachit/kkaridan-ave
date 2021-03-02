@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kkaridan-ave/static/css/main.e212c2ae.chunk.css",
-    "main.js": "/kkaridan-ave/static/js/main.0b6edc24.chunk.js",
-    "main.js.map": "/kkaridan-ave/static/js/main.0b6edc24.chunk.js.map",
+    "main.js": "/kkaridan-ave/static/js/main.f0369df7.chunk.js",
+    "main.js.map": "/kkaridan-ave/static/js/main.f0369df7.chunk.js.map",
     "runtime-main.js": "/kkaridan-ave/static/js/runtime-main.59c70e95.js",
     "runtime-main.js.map": "/kkaridan-ave/static/js/runtime-main.59c70e95.js.map",
     "static/js/2.1fc52a22.chunk.js": "/kkaridan-ave/static/js/2.1fc52a22.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.59c70e95.js",
     "static/js/2.1fc52a22.chunk.js",
     "static/css/main.e212c2ae.chunk.css",
-    "static/js/main.0b6edc24.chunk.js"
+    "static/js/main.f0369df7.chunk.js"
   ]
 }
